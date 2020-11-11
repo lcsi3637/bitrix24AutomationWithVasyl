@@ -6,4 +6,7 @@ everthing will be fine
 
 i m adding something here to get everbody understanding 
 
-from local t
+
+
+from remote
+

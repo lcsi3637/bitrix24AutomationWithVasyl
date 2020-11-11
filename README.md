@@ -1,3 +1,3 @@
 ~~~~****~~``~~****~~~~## bitrix24AutomationWithVasyl
 
-siliyorum bunlari bro
+sThis file includes what we have to do in that framework
